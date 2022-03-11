@@ -1,6 +1,6 @@
 # Leicester
 
-Data files for Leicester network. The network models a region ("RA") of the Leicester road network as it was in 1997. The region is essential bounded by London Road (A6), Waterloo Way (since renamed Tigers Way), Lancaster Road and Granville Road.
+Data files for Leicester network. The network models a region ("RA") of the Leicester road network as it was in 1997. The region is essentially bounded by London Road (A6), Waterloo Way (since renamed Tigers Way), Lancaster Road and Granville Road.
 
 nodes.txt - node ID, longitude, latitute
 
