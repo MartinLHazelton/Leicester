@@ -20,11 +20,7 @@ O.txt - origin node corresponding to each path (column) of A (and Afull)
 
 D.txt - destination node corresponding to each path (column) of A (and Afull)
 
-There are also files containing R code to perform the analysis described in 
 
-Hazelton, M.L. and Najim, L. (2022). Model assisted priors for estimation of origin-destination matrices.
-
-The file functions.r contains necessary functions; code.r implements the analysis of the Leicester data; and figures.r recreates figures from that article.
 
 
 
