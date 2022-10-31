@@ -6,7 +6,7 @@ nodes.txt - node ID, longitude, latitute
 
 links.txt - Link ID, from node, to node, Cost0 (free flow travel time in seconds), capacity (vehicles/15 minutes)
 
-counts.txt - 15 minute traffic counts on a subset of network links between 19 and 23 May 1997
+counts.txt - 15 minute traffic counts on a subset of network links between 4 and 8 May 1998
 
 monitored-links.txt - ID of links equipped with vehicle counters 
 
