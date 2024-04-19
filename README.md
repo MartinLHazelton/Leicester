@@ -20,6 +20,8 @@ O.txt - origin node corresponding to each path (column) of A (and Afull)
 
 D.txt - destination node corresponding to each path (column) of A (and Afull)
 
+Files with s and l extensions (e.g. Al.txt, Ds.txt) are variations on the above with smaller and large versions of the A matrix respectively (corresponding to less or more routes).
+
 
 
 
